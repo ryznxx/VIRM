@@ -5,7 +5,7 @@ author        = "ryznxx"
 description   = "backend for VIRM"
 license       = "MIT"
 srcDir        = "src"
-bin           = @["controller"]
+bin           = @["native"]
 
 
 # Dependencies
