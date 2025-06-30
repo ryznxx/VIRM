@@ -4,8 +4,6 @@
 
 Forget clunky tools and outdated UIs — VIRM is built to be fast, clean, and intuitive.
 
----
-
 ## 🚀 Why VIRM?
 
 > **Tired of phpMyAdmin?**  
@@ -23,8 +21,6 @@ Forget clunky tools and outdated UIs — VIRM is built to be fast, clean, and in
 -  🧩 Multi-tab SQL editor for flexible querying and exploration
 -  🔐 (Planned) Authentication, role-based access, and query history
 
----
-
 ## 🧱 Tech Stack
 
 | Layer    | Tech                         |
@@ -35,8 +31,6 @@ Forget clunky tools and outdated UIs — VIRM is built to be fast, clean, and in
 
 Each layer is modular and independently extensible.
 
----
-
 ## ✅ VIRM vs phpMyAdmin
 
 | phpMyAdmin                   | VIRM                                |
@@ -46,15 +40,11 @@ Each layer is modular and independently extensible.
 | Not developer-friendly       | Designed with developers in mind    |
 | Too many irrelevant features | Focused and streamlined             |
 
----
-
 ## ⚒️ Project Status
 
 🧪 Currently under active development  
 📦 Core features are working and testable  
 💡 Open to contribution, feedback, and brutal code reviews
-
----
 
 ## 📍 Roadmap
 
@@ -66,16 +56,12 @@ Each layer is modular and independently extensible.
 -  [ ] CSV import/export
 -  [ ] Plugin system?
 
----
-
 ## 🙌 Contributing
 
 Hate bloated DB tools too? Join us.  
 Fork the repo, open a pull request, file an issue, or drop ideas in Discussions.
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines.
-
----
 
 ## 📄 License
 
