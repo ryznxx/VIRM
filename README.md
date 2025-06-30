@@ -10,8 +10,6 @@ Forget clunky tools and outdated UIs — VIRM is built to be fast, clean, and in
 > Outdated UI, sluggish performance, and overwhelming clutter?  
 > VIRM was built to kill that noise.
 
----
-
 ## ✨ Features
 
 -  ✅ One-click connect to local or remote MariaDB instances
@@ -48,8 +46,8 @@ Each layer is modular and independently extensible.
 
 ## 📍 Roadmap
 
--  [x] SQL query executor
--  [x] Schema/table browser
+-  [ ] SQL query executor
+-  [ ] Schema/table browser
 -  [ ] Dark mode
 -  [ ] Tabbed query editor
 -  [ ] Query history
